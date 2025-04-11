@@ -26,3 +26,8 @@ This app isn’t just about taking notes; it’s about **visual reinforcement** 
 *   📝 Simple & Powerful Note Creation
 *   🖼️ One-Tap Wallpaper Conversion (Home & Lock Screen)
 *   🎨 Customizable Colors for a Personalized Experience
+
+
+![Download](./img/google-play-badge.png)
+
+
