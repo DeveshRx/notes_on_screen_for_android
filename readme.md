@@ -28,6 +28,8 @@ This app isn’t just about taking notes; it’s about **visual reinforcement** 
 *   🎨 Customizable Colors for a Personalized Experience
 
 
-![Download](./img/google-play-badge.png)
+ [![Download](./img/google-play-badge.png)](https://play.google.com/store/apps/details?id=devesh.todo.notes)
+
+
 
 
