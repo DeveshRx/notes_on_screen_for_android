@@ -31,5 +31,7 @@ This app isn’t just about taking notes; it’s about **visual reinforcement** 
  [![Download](./img/google-play-badge.png)](https://play.google.com/store/apps/details?id=devesh.todo.notes)
 
 
+[Download .APK File](https://github.com/DeveshRx/notes_on_screen_for_android/releases/latest/download/app-release.apk)
+
 
 
